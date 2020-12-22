@@ -1,0 +1,23 @@
+{
+    "0": {
+      "Image": 63191,
+      "Name_fr": "Mer des noyades",
+      "Name_en": "Deep-sea Site",
+      "Name_ja": "溺没海",
+      "Name_de": "Tiefsee"
+    },
+    "1": {
+      "Image": 63192,
+      "Name_fr": "Mer de Cendre",
+      "Name_en": "Sea of Ash",
+      "Name_ja": "灰海",
+      "Name_de": "Verbranntes Meer"
+    },
+    "2": {
+      "Image": 63193,
+      "Name_fr": "Mer de Jade",
+      "Name_en": "Sea of Jade",
+      "Name_ja": "翠浪海",
+      "Name_de": "Jademeer"
+    }
+  }
