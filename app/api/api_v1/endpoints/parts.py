@@ -2,13 +2,14 @@ from typing import Any, List, Optional
 
 from fastapi import APIRouter, HTTPException, Query
 
+from app import schemas
 from app.core import parts
 
 
 router = APIRouter()
 
 
-@router.get("/submarine")
+@router.get("/submarine", response_model=List[schemas.Part])
 def get_parts(
     part_class: Optional[int] = Query(None, alias="class"),
     slot: Optional[int] = Query(None, gte=0, lte=3)

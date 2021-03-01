@@ -2,13 +2,14 @@ from typing import Any, List, Optional
 
 from fastapi import APIRouter, HTTPException, Query
 
+from app import schemas
 from app.core import exploration
 
 
 router = APIRouter()
 
 
-@router.get("")
+@router.get("", response_model=List[schemas.SubmarineSector], response_model_exclude_unset=True)
 def read_sectors(
     map_id: Optional[int] = Query(None, ge=1)
 ) -> Any:
@@ -21,7 +22,7 @@ def read_sectors(
     return exploration.get_sectors()
 
 
-@router.get("/{id}")
+@router.get("/{id}", response_model=schemas.SubmarineSector)
 def read_sector(
     id: int,
 ) -> Any:
