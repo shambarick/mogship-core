@@ -1,0 +1,252 @@
+[
+    {
+      "rank": 1,
+      "capacity": 12,
+      "expToNext": 6180
+    },
+    {
+      "rank": 2,
+      "capacity": 13,
+      "expToNext": 12504
+    },
+    {
+      "rank": 3,
+      "capacity": 14,
+      "expToNext": 18972
+    },
+    {
+      "rank": 4,
+      "capacity": 15,
+      "expToNext": 25581
+    },
+    {
+      "rank": 5,
+      "capacity": 16,
+      "expToNext": 32331
+    },
+    {
+      "rank": 6,
+      "capacity": 17,
+      "expToNext": 39221
+    },
+    {
+      "rank": 7,
+      "capacity": 18,
+      "expToNext": 46251
+    },
+    {
+      "rank": 8,
+      "capacity": 19,
+      "expToNext": 53418
+    },
+    {
+      "rank": 9,
+      "capacity": 20,
+      "expToNext": 60721
+    },
+    {
+      "rank": 10,
+      "capacity": 21,
+      "expToNext": 68161
+    },
+    {
+      "rank": 11,
+      "capacity": 22,
+      "expToNext": 75735
+    },
+    {
+      "rank": 12,
+      "capacity": 23,
+      "expToNext": 83443
+    },
+    {
+      "rank": 13,
+      "capacity": 24,
+      "expToNext": 91283
+    },
+    {
+      "rank": 14,
+      "capacity": 25,
+      "expToNext": 99256
+    },
+    {
+      "rank": 15,
+      "capacity": 26,
+      "expToNext": 107359
+    },
+    {
+      "rank": 16,
+      "capacity": 27,
+      "expToNext": 115591
+    },
+    {
+      "rank": 17,
+      "capacity": 28,
+      "expToNext": 123953
+    },
+    {
+      "rank": 18,
+      "capacity": 29,
+      "expToNext": 132442
+    },
+    {
+      "rank": 19,
+      "capacity": 30,
+      "expToNext": 141058
+    },
+    {
+      "rank": 20,
+      "capacity": 31,
+      "expToNext": 149799
+    },
+    {
+      "rank": 21,
+      "capacity": 32,
+      "expToNext": 158666
+    },
+    {
+      "rank": 22,
+      "capacity": 33,
+      "expToNext": 167656
+    },
+    {
+      "rank": 23,
+      "capacity": 34,
+      "expToNext": 176770
+    },
+    {
+      "rank": 24,
+      "capacity": 35,
+      "expToNext": 186005
+    },
+    {
+      "rank": 25,
+      "capacity": 36,
+      "expToNext": 195361
+    },
+    {
+      "rank": 26,
+      "capacity": 37,
+      "expToNext": 204838
+    },
+    {
+      "rank": 27,
+      "capacity": 38,
+      "expToNext": 214434
+    },
+    {
+      "rank": 28,
+      "capacity": 39,
+      "expToNext": 224148
+    },
+    {
+      "rank": 29,
+      "capacity": 40,
+      "expToNext": 233979
+    },
+    {
+      "rank": 30,
+      "capacity": 41,
+      "expToNext": 243927
+    },
+    {
+      "rank": 31,
+      "capacity": 42,
+      "expToNext": 253991
+    },
+    {
+      "rank": 32,
+      "capacity": 43,
+      "expToNext": 264169
+    },
+    {
+      "rank": 33,
+      "capacity": 44,
+      "expToNext": 274462
+    },
+    {
+      "rank": 34,
+      "capacity": 45,
+      "expToNext": 284867
+    },
+    {
+      "rank": 35,
+      "capacity": 46,
+      "expToNext": 295384
+    },
+    {
+      "rank": 36,
+      "capacity": 47,
+      "expToNext": 306012
+    },
+    {
+      "rank": 37,
+      "capacity": 48,
+      "expToNext": 316751
+    },
+    {
+      "rank": 38,
+      "capacity": 49,
+      "expToNext": 327599
+    },
+    {
+      "rank": 39,
+      "capacity": 50,
+      "expToNext": 338556
+    },
+    {
+      "rank": 40,
+      "capacity": 51,
+      "expToNext": 349621
+    },
+    {
+      "rank": 41,
+      "capacity": 52,
+      "expToNext": 360793
+    },
+    {
+      "rank": 42,
+      "capacity": 53,
+      "expToNext": 372071
+    },
+    {
+      "rank": 43,
+      "capacity": 54,
+      "expToNext": 383454
+    },
+    {
+      "rank": 44,
+      "capacity": 55,
+      "expToNext": 394941
+    },
+    {
+      "rank": 45,
+      "capacity": 56,
+      "expToNext": 406533
+    },
+    {
+      "rank": 46,
+      "capacity": 57,
+      "expToNext": 418227
+    },
+    {
+      "rank": 47,
+      "capacity": 58,
+      "expToNext": 430023
+    },
+    {
+      "rank": 48,
+      "capacity": 59,
+      "expToNext": 441921
+    },
+    {
+      "rank": 49,
+      "capacity": 60,
+      "expToNext": 453919
+    },
+    {
+      "rank": 50,
+      "capacity": 61,
+      "expToNext": 0
+    }
+  ]

@@ -1,62 +1,62 @@
 {
-  "Airship": [
+  "airship": [
     {
-      "ID": 0,
-      "Name_en": "Airship Hull",
-      "Name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (coque)",
-      "Name_de": "Schiffbauteil (Rumpf)",
-      "Name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u4f53)"
+      "id": 0,
+      "name_en": "Airship Hull",
+      "name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (coque)",
+      "name_de": "Schiffbauteil (Rumpf)",
+      "name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u4f53)"
     },
     {
-      "ID": 1,
-      "Name_en": "Airship Rigging",
-      "Name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (gr\u00e9ement)",
-      "Name_de": "Schiffbauteil (Takelage)",
-      "Name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8264\u88c5)"
+      "id": 1,
+      "name_en": "Airship Rigging",
+      "name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (gr\u00e9ement)",
+      "name_de": "Schiffbauteil (Takelage)",
+      "name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8264\u88c5)"
     },
     {
-      "ID": 2,
-      "Name_en": "Airship Aftcastle",
-      "Name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (poupe)",
-      "Name_de": "Schiffbauteil (Heck)",
-      "Name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u5c3e)"
+      "id": 2,
+      "name_en": "Airship Aftcastle",
+      "name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (poupe)",
+      "name_de": "Schiffbauteil (Heck)",
+      "name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u5c3e)"
     },
     {
-      "ID": 3,
-      "Name_en": "Airship Forecastle",
-      "Name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (proue)",
-      "Name_de": "Schiffbauteil (Bug)",
-      "Name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u9996)"
+      "id": 3,
+      "name_en": "Airship Forecastle",
+      "name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (proue)",
+      "name_de": "Schiffbauteil (Bug)",
+      "name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u9996)"
     }
   ],
-  "Submarine": [
+  "submarine": [
     {
-      "ID": 0,
-      "Name_en": "Submersible Hull",
-      "Name_fr": "\u00c9l\u00e9ment de sous-marin (coque)",
-      "Name_de": "Tauchboot-Bauteil (Rumpf)",
-      "Name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u4f53)"
+      "id": 0,
+      "name_en": "Submersible Hull",
+      "name_fr": "\u00c9l\u00e9ment de sous-marin (coque)",
+      "name_de": "Tauchboot-Bauteil (Rumpf)",
+      "name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u4f53)"
     },
     {
-      "ID": 1,
-      "Name_en": "Submersible Stern",
-      "Name_fr": "\u00c9l\u00e9ment de sous-marin (poupe)",
-      "Name_de": "Tauchboot-Bauteil (Heck)",
-      "Name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u5c3e)"
+      "id": 1,
+      "name_en": "Submersible Stern",
+      "name_fr": "\u00c9l\u00e9ment de sous-marin (poupe)",
+      "name_de": "Tauchboot-Bauteil (Heck)",
+      "name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u5c3e)"
     },
     {
-      "ID": 2,
-      "Name_en": "Submersible Bow",
-      "Name_fr": "\u00c9l\u00e9ment de sous-marin (proue)",
-      "Name_de": "Tauchboot-Bauteil (Bug)",
-      "Name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u9996)"
+      "id": 2,
+      "name_en": "Submersible Bow",
+      "name_fr": "\u00c9l\u00e9ment de sous-marin (proue)",
+      "name_de": "Tauchboot-Bauteil (Bug)",
+      "name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u9996)"
     },
     {
-      "ID": 3,
-      "Name_en": "Submersible Bridge",
-      "Name_fr": "\u00c9l\u00e9ment de sous-marin (pont)",
-      "Name_de": "Tauchboot-Bauteil (Br\u00fccke)",
-      "Name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u6a4b)"
+      "id": 3,
+      "name_en": "Submersible Bridge",
+      "name_fr": "\u00c9l\u00e9ment de sous-marin (pont)",
+      "name_de": "Tauchboot-Bauteil (Br\u00fccke)",
+      "name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u6a4b)"
     }
   ]
 }
