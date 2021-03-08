@@ -14,6 +14,7 @@ def filter_parts(results: List[schemas.Part], part_class: Optional[int], slot: O
 
     return results
 
+
 def filter_ranks_by_id(data: List[schemas.Rank], id: int):
     try:
         return data[id]
