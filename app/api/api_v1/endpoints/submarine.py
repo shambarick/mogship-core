@@ -5,17 +5,20 @@ from fastapi import APIRouter, Depends, Query, HTTPException
 
 from app import schemas
 from app.api import helpers
-from app.services import exploration, parts, ranks
 from app.core.elasticsearch import get_client
-from app.services import builds_calculator as BuildsCalculator
+from app.services import builds_calculator as BuildsCalculator, exploration, parts, ranks
 
 
 router = APIRouter()
 
 
 @router.get("/builds-calculator", response_model=List[schemas.Build])
-async def builds_calculator(filters:schemas.BuildsFilters = Depends()):
-    query = BuildsCalculator.find_builds(filters)
+async def builds_calculator(
+    size: int = Query(100, gte=1, lte=10000),
+    page: int = Query(1, gte=1),
+    filters: schemas.BuildsFilters = Depends()
+):
+    query = BuildsCalculator.find_builds(filters, size, page)
     results = await get_client().search(
         index="submarinebuilds-0001",
         body=query,
