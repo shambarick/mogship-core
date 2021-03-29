@@ -1,5 +1,5 @@
 from .build import Build
-from .builds_filters import BuildsFilters
+from .builds_filters import BuildsFilters, StatFilter
 from .exploration import ExplorationDistance, ExplorationUnlock
 from .part import Part
 from .part_type import PartType

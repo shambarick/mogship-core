@@ -1,3 +1,6 @@
+import json
+from typing import Dict, List
+
 from loguru import logger
 
 from app import schemas
@@ -5,38 +8,26 @@ from app.core.elasticsearch import get_client
 
 
 def to_es_filter(filters: schemas.BuildsFilters):
-    """TODO curse thing, fix it"""
     logger.debug(filters)
     es_query = []
-    if filters.slot0 is not None:
+    es_terms: Dict[string, List[int]] = {}
+    for key, value in filters.to_part_slots_filters_dict().items():
+        if value is not None:
+            es_terms.update({key: [int(x) for x in value.split(",")]})
+    if len(es_terms.keys()) > 0:
         es_query.append({
-            "terms": {
-                "slots.0": list(map(lambda x: int(x), filters.slot0.split(","))),
-            },
+            "terms": es_terms,
         })
-    if filters.to_filters_dict().get("rank") is not None:
-        if filters.to_filters_dict().get("rank")["exact"] is not None:
-            es_query.append({
-                "term": {
-                    "rank": filters.to_filters_dict().get("rank")["exact"]
-                },
-            })
-        elif filters.to_filters_dict().get("rank")["min"] is not None or filters.to_filters_dict().get("rank")["max"] is not None:
-            es_query.append({
-                "range": {
-                    "rank": {
-                        "gte": 0 if filters.to_filters_dict().get("rank")["min"] is None else filters.to_filters_dict().get("rank")["min"],
-                        "lte": 999 if filters.to_filters_dict().get("rank")["max"] is None else filters.to_filters_dict().get("rank")["max"],
-                    },
-                },
-            })
+    for key, value in filters.to_stats_filters_dict().items():
+        stat_query = to_es_stat_filter(key, value)
+        es_query.append(stat_query) if stat_query is not None else None
     return es_query
 
 
 def find_builds(filters: schemas.BuildsFilters, size: int, page: int):
     page = page - 1 if page > 0 else page
     es_query = to_es_filter(filters)
-    logger.debug(es_query)
+    logger.debug(json.dumps(es_query))
     return {
             'size': size,
             'from': size * page,
@@ -53,3 +44,22 @@ def find_builds(filters: schemas.BuildsFilters, size: int, page: int):
                 },
             ]
     }
+
+def to_es_stat_filter(stat_name: str, stat_filter: schemas.StatFilter):
+    if stat_filter is not None:
+        if stat_filter["exact"] is not None:
+            return {
+                "term": {
+                    stat_name: stat_filter["exact"]
+                },
+            }
+        elif stat_filter["min"] is not None or stat_filter["max"] is not None:
+            return {
+                "range": {
+                    stat_name: {
+                        "gte": 0 if stat_filter["min"] is None else stat_filter["min"],
+                        "lte": 999 if stat_filter["max"] is None else stat_filter["max"],
+                    },
+                },
+            }
+    return None

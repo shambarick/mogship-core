@@ -58,14 +58,25 @@ class BuildsFilters(BaseModel):
         }
 
 
-    def to_filters_dict(self):
+    def to_part_slots_filters_dict(self):
+        if self.slot0 is None and self.slot1 is None and self.slot2 is None and self.slot3 is None:
+            return {}
+        return {
+           "slots.0": self.slot0,
+           "slots.1": self.slot1,
+           "slots.2": self.slot2,
+           "slots.3": self.slot3,
+        }
+
+
+    def to_stats_filters_dict(self):
         return {
             "rank": self.__get_stat_filter__("rank"),
             "components": self.__get_stat_filter__("components"),
             "repairCost": self.__get_stat_filter__("repair_cost"),
-            "surveillance": self.__get_stat_filter__("surveillance"),
-            "retrieval": self.__get_stat_filter__("retrieval"),
-            "speed": self.__get_stat_filter__("speed"),
-            "range": self.__get_stat_filter__("range"),
-            "favor": self.__get_stat_filter__("rank"),
+            "stats.surveillance": self.__get_stat_filter__("surveillance"),
+            "stats.retrieval": self.__get_stat_filter__("retrieval"),
+            "stats.speed": self.__get_stat_filter__("speed"),
+            "stats.range": self.__get_stat_filter__("range"),
+            "stats.favor": self.__get_stat_filter__("favor"),
         }

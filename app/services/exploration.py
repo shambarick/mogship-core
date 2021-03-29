@@ -7,7 +7,7 @@ from typing import List
 
 @lru_cache
 def get_maps() -> List:
-    with open(f"{pathlib.Path(__file__).parent}/../../data/maps.json") as json_file:
+    with open(f"{pathlib.Path(__file__).parent}/../../data/maps_submarine.json") as json_file:
         data = json.load(json_file, object_pairs_hook=OrderedDict)
     maps = [{
         "id": key,
@@ -18,7 +18,7 @@ def get_maps() -> List:
 
 @lru_cache
 def get_sectors() -> List:
-    with open(f"{pathlib.Path(__file__).parent}/../../data/sectors.json") as json_file:
+    with open(f"{pathlib.Path(__file__).parent}/../../data/sectors_submarine.json") as json_file:
         data = json.load(json_file, object_pairs_hook=OrderedDict)
     data = [{
         "id": key,

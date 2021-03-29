@@ -23,6 +23,7 @@ async def builds_calculator(
         index="submarinebuilds-0001",
         body=query,
     )
+    logger.info(results)
     return [ row["_source"] for row in results["hits"]["hits"] ]
 
 
