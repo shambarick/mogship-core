@@ -1,4 +1,4 @@
-from typing import Dict, TypedDict
+from typing import Dict, List
 
 from pydantic import BaseModel, Field
 
@@ -17,3 +17,6 @@ class Build(BaseModel):
     repair_cost: int = Field(..., alias="repairCost")
     slots: Dict[int, int]
     stats: ShipStats
+
+class BuildsResponse(BaseModel):
+    results: List[Build]

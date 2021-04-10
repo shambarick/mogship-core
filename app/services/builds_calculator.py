@@ -24,26 +24,43 @@ def to_es_filter(filters: schemas.BuildsFilters):
     return es_query
 
 
-def find_builds(filters: schemas.BuildsFilters, size: int, page: int):
+async def find_builds(filters: schemas.BuildsFilters, sort: str, size: int, page: int):
     page = page - 1 if page > 0 else page
     es_query = to_es_filter(filters)
     logger.debug(json.dumps(es_query))
-    return {
-            'size': size,
-            'from': size * page,
-            'query': {
+
+    es_sort = []
+    sort_list = sort.split(",")
+    if len(sort_list)%2 == 0:
+        for i in range(0, len(sort_list), 2):
+            es_sort.append({
+                sort_list[i]: {
+                    "order": sort_list[i + 1]
+                }
+            })
+        logger.info(es_sort)
+    else:
+        es_sort.append({
+            "stats.speed": {
+                "order": "desc",
+            }
+        })
+
+    query = {
+            "size": size,
+            "from": size * page,
+            "query": {
                 "bool": {
                     "filter": es_query,
                 },
             },
-            "sort": [
-                {
-                    "stats.speed": {
-                        "order": "DESC"
-                    },
-                },
-            ]
+            "sort": es_sort,
     }
+
+    return await get_client().search(
+        index="submarinebuilds",
+        body=query,
+    )
 
 def to_es_stat_filter(stat_name: str, stat_filter: schemas.StatFilter):
     if stat_filter is not None:
