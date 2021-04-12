@@ -20,7 +20,7 @@ async def get_parts(
 
 @router.get("/part-types", response_model=schemas.ResultsResponse[schemas.PartType])
 async def get_part_types():
-    return schemas.ResultsResponse[schemas.PartType](results=AirshipService.get_part_types()["airship"])
+    return schemas.ResultsResponse[schemas.PartType](results=AirshipService.get_part_types())
 
 
 @router.get("/ranks", response_model=schemas.ResultsResponse[schemas.Rank])

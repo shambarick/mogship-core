@@ -15,10 +15,7 @@ class ShipService(metaclass=ABCMeta):
     def get_maps(self):
         with open(f"{Path(__file__).parent}/../../data/maps_{self.ship_type}.json") as json_file:
             data = json.load(json_file, object_pairs_hook=OrderedDict)
-        maps = [{
-            "id": key,
-            **data[key],
-        } for key in data]
+        maps = [data[key] for key in data]
         return maps
 
 
@@ -26,10 +23,7 @@ class ShipService(metaclass=ABCMeta):
     def get_sectors(self):
         with open(f"{Path(__file__).parent}/../../data/sectors_{self.ship_type}.json") as json_file:
             data = json.load(json_file, object_pairs_hook=OrderedDict)
-        data = [{
-            "id": key,
-            **data[key],
-        } for key in data]
+        data = [data[key] for key in data]
         return data
 
 
@@ -39,12 +33,12 @@ class ShipService(metaclass=ABCMeta):
 
     @lru_cache
     def get_list_map_ids(self):
-        return list(map(lambda x: x["id"], get_maps()))
+        return list(map(lambda x: x["id"], self.get_maps()))
 
 
     @lru_cache
     def get_sectors_by_map(self, map_id: int):
-        return list(filter(lambda x: x["map"]["id"] == map_id, get_sectors()))
+        return list(filter(lambda x: x["map"]["id"] == map_id, self.get_sectors()))
 
 
     @lru_cache
@@ -56,7 +50,7 @@ class ShipService(metaclass=ABCMeta):
 
     @lru_cache
     def get_part_types(self):
-        with open(f"{Path(__file__).parent}/../../data/part_types.json") as json_file:
+        with open(f"{Path(__file__).parent}/../../data/part_types_{self.ship_type}.json") as json_file:
             data = json.load(json_file)
         return data
 
@@ -67,8 +61,10 @@ class ShipService(metaclass=ABCMeta):
             data = json.load(json_file)
         return data
 
+
 class AirshipService(ShipService):
     ship_type = 'airship'
+
 
 class SubmarineService(ShipService):
     ship_type = 'submarine'

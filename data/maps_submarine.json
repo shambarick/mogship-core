@@ -1,23 +1,26 @@
 {
   "1": {
-    "Image": 63191,
-    "Name_fr": "Mer des noyades",
-    "Name_en": "Deep-sea Site",
-    "Name_ja": "溺没海",
-    "Name_de": "Tiefsee"
+    "id": 1,
+    "image": 63191,
+    "name_fr": "Mer des noyades",
+    "name_en": "Deep-sea Site",
+    "name_ja": "\u6eba\u6ca1\u6d77",
+    "name_de": "Tiefsee"
   },
   "2": {
-    "Image": 63192,
-    "Name_fr": "Mer de Cendre",
-    "Name_en": "Sea of Ash",
-    "Name_ja": "灰海",
-    "Name_de": "Verbranntes Meer"
+    "id": 2,
+    "image": 63192,
+    "name_fr": "Mer de Cendre",
+    "name_en": "Sea of Ash",
+    "name_ja": "\u7070\u6d77",
+    "name_de": "Verbranntes Meer"
   },
   "3": {
-    "Image": 63193,
-    "Name_fr": "Mer de Jade",
-    "Name_en": "Sea of Jade",
-    "Name_ja": "翠浪海",
-    "Name_de": "Jademeer"
+    "id": 3,
+    "image": 63193,
+    "name_fr": "Mer de Jade",
+    "name_en": "Sea of Jade",
+    "name_ja": "\u7fe0\u6d6a\u6d77",
+    "name_de": "Jademeer"
   }
 }

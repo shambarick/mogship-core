@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "name_en": "Airship Hull",
+    "name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (coque)",
+    "name_de": "Schiffbauteil (Rumpf)",
+    "name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u4f53)"
+  },
+  {
+    "id": 1,
+    "name_en": "Airship Rigging",
+    "name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (gr\u00e9ement)",
+    "name_de": "Schiffbauteil (Takelage)",
+    "name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8264\u88c5)"
+  },
+  {
+    "id": 2,
+    "name_en": "Airship Aftcastle",
+    "name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (poupe)",
+    "name_de": "Schiffbauteil (Heck)",
+    "name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u5c3e)"
+  },
+  {
+    "id": 3,
+    "name_en": "Airship Forecastle",
+    "name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (proue)",
+    "name_de": "Schiffbauteil (Bug)",
+    "name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u9996)"
+  }
+]

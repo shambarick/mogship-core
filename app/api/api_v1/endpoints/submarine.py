@@ -22,6 +22,9 @@ async def builds_calculator(
     results = await BuildsCalculator.find_builds(filters, sort, size, page)
     return schemas.ResultsResponse[schemas.Build](results=[ row["_source"] for row in results["hits"]["hits"] ])
 
+@router.get("/maps", response_model=schemas.ResultsResponse[schemas.SubmarineMap])
+async def get_maps(id: Optional[int] = Query(None)):
+    return schemas.ResultsResponse[schemas.SubmarineMap](results=SubmarineService.get_maps())
 
 @router.get("/parts", response_model=schemas.ResultsResponse[schemas.Part])
 async def get_parts(
@@ -33,19 +36,19 @@ async def get_parts(
 
 @router.get("/part-types", response_model=schemas.ResultsResponse[schemas.PartType])
 async def get_part_types():
-    return schemas.ResultsResponse[schemas.PartType](results=SubmarineService.get_part_types()["submarine"])
+    return schemas.ResultsResponse[schemas.PartType](results=SubmarineService.get_part_types())
 
 
 @router.get("/ranks", response_model=schemas.ResultsResponse[schemas.Rank])
 async def get_ranks():
-    return schemas.ResultsResponse[schemas.rank](results=SubmarineService.get_ranks())
+    return schemas.ResultsResponse[schemas.Rank](results=SubmarineService.get_ranks())
 
 
 @router.get("/ranks/{id}", response_model=schemas.Rank)
 async def get_rank(
     id: int = Query(None, ge=1),
 ):
-    return helpers.filter_ranks_by_id(SubmarineService.get_ranks, id)
+    return helpers.filter_ranks_by_id(SubmarineService.get_ranks(), id - 1)
 
 
 @router.get("/sectors", response_model=schemas.ResultsResponse[schemas.SubmarineSector], response_model_exclude_unset=True)
@@ -54,7 +57,7 @@ async def read_sectors(
 ):
     if map_id is not None:
         print(SubmarineService.get_list_map_ids())
-        if str(map_id) not in SubmarineService.get_list_map_ids():
+        if map_id not in SubmarineService.get_list_map_ids():
             raise HTTPException(status_code=400, detail="map_id not found")
         return schemas.ResultsResponse[schemas.SubmarineSector](results=SubmarineService.get_sectors_by_map(map_id))
     return schemas.ResultsResponse[schemas.SubmarineSector](results=SubmarineService.get_sectors())

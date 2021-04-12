@@ -15,9 +15,12 @@ def to_es_filter(filters: schemas.BuildsFilters):
         if value is not None:
             es_terms.update({key: [int(x) for x in value.split(",")]})
     if len(es_terms.keys()) > 0:
-        es_query.append({
-            "terms": es_terms,
-        })
+        for (key, value) in es_terms.items():
+            es_query.append({
+                "terms": {
+                    key: value,
+                }
+            })
     for key, value in filters.to_stats_filters_dict().items():
         stat_query = to_es_stat_filter(key, value)
         es_query.append(stat_query) if stat_query is not None else None

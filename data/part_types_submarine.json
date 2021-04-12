@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "name_en": "Submersible Hull",
+    "name_fr": "\u00c9l\u00e9ment de sous-marin (coque)",
+    "name_de": "Tauchboot-Bauteil (Rumpf)",
+    "name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u4f53)"
+  },
+  {
+    "id": 1,
+    "name_en": "Submersible Stern",
+    "name_fr": "\u00c9l\u00e9ment de sous-marin (poupe)",
+    "name_de": "Tauchboot-Bauteil (Heck)",
+    "name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u5c3e)"
+  },
+  {
+    "id": 2,
+    "name_en": "Submersible Bow",
+    "name_fr": "\u00c9l\u00e9ment de sous-marin (proue)",
+    "name_de": "Tauchboot-Bauteil (Bug)",
+    "name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u9996)"
+  },
+  {
+    "id": 3,
+    "name_en": "Submersible Bridge",
+    "name_fr": "\u00c9l\u00e9ment de sous-marin (pont)",
+    "name_de": "Tauchboot-Bauteil (Br\u00fccke)",
+    "name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u6a4b)"
+  }
+]

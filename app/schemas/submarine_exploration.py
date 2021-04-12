@@ -5,6 +5,22 @@ from pydantic import BaseModel, Field
 from .exploration import ExplorationDistance, ExplorationUnlock
 
 
+class SurveillanceBreakpoint(BaseModel):
+    mid: int
+    high: int
+
+
+class RetrievalBreakpoint(BaseModel):
+    norm: int
+    optim: int
+
+
+class SubmarineSectorBreakpoints(BaseModel):
+    surveillance: SurveillanceBreakpoint
+    retrieval: RetrievalBreakpoint
+    favor: int
+
+
 class SubmarineMap(BaseModel):
     id: int
     image: int
@@ -39,5 +55,7 @@ class SubmarineSector(BaseModel):
     coordX: int
     coordY: int
     coordZ: int
+    unlockedBy: Optional[int]
     unlocks: Optional[ExplorationUnlock] = None
+    breakpoints: Optional[SubmarineSectorBreakpoints]
     toDestination: Optional[Dict[str, ExplorationDistance]] = Field(example={ "1": { "distance": 25000, "range": 13 } })
