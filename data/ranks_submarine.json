@@ -798,5 +798,105 @@
     "speed": 25,
     "range": 35,
     "favor": 30
+  },
+  {
+    "rank": 81,
+    "capacity": 80,
+    "expToNext": 2267053,
+    "surveillance": 40,
+    "retrieval": 50,
+    "speed": 30,
+    "range": 37,
+    "favor": 32
+  },
+  {
+    "rank": 82,
+    "capacity": 80,
+    "expToNext": 2492899,
+    "surveillance": 42,
+    "retrieval": 50,
+    "speed": 32,
+    "range": 40,
+    "favor": 34
+  },
+  {
+    "rank": 83,
+    "capacity": 80,
+    "expToNext": 2741330,
+    "surveillance": 43,
+    "retrieval": 53,
+    "speed": 32,
+    "range": 44,
+    "favor": 35
+  },
+  {
+    "rank": 84,
+    "capacity": 80,
+    "expToNext": 8223989,
+    "surveillance": 44,
+    "retrieval": 53,
+    "speed": 32,
+    "range": 49,
+    "favor": 38
+  },
+  {
+    "rank": 85,
+    "capacity": 80,
+    "expToNext": 3041931,
+    "surveillance": 48,
+    "retrieval": 58,
+    "speed": 33,
+    "range": 49,
+    "favor": 39
+  },
+  {
+    "rank": 86,
+    "capacity": 80,
+    "expToNext": 3372592,
+    "surveillance": 50,
+    "retrieval": 58,
+    "speed": 36,
+    "range": 49,
+    "favor": 43
+  },
+  {
+    "rank": 87,
+    "capacity": 80,
+    "expToNext": 3736319,
+    "surveillance": 50,
+    "retrieval": 60,
+    "speed": 36,
+    "range": 53,
+    "favor": 46
+  },
+  {
+    "rank": 88,
+    "capacity": 80,
+    "expToNext": 4136419,
+    "surveillance": 50,
+    "retrieval": 64,
+    "speed": 36,
+    "range": 56,
+    "favor": 48
+  },
+  {
+    "rank": 89,
+    "capacity": 80,
+    "expToNext": 12409258,
+    "surveillance": 50,
+    "retrieval": 64,
+    "speed": 40,
+    "range": 60,
+    "favor": 49
+  },
+  {
+    "rank": 90,
+    "capacity": 80,
+    "expToNext": 4620540,
+    "surveillance": 55,
+    "retrieval": 70,
+    "speed": 40,
+    "range": 60,
+    "favor": 50
   }
 ]
