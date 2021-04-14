@@ -7572,6 +7572,34 @@
       "65": {
         "distance": 26717,
         "range": 23
+      },
+      "66": {
+        "distance": 31282,
+        "range": 24
+      },
+      "67": {
+        "distance": 45365,
+        "range": 35
+      },
+      "68": {
+        "distance": 21571,
+        "range": 16
+      },
+      "69": {
+        "distance": 39026,
+        "range": 30
+      },
+      "70": {
+        "distance": 36693,
+        "range": 28
+      },
+      "71": {
+        "distance": 50937,
+        "range": 40
+      },
+      "72": {
+        "distance": 51815,
+        "range": 40
       }
     }
   },
@@ -7666,6 +7694,34 @@
       "65": {
         "distance": 21343,
         "range": 18
+      },
+      "66": {
+        "distance": 27271,
+        "range": 21
+      },
+      "67": {
+        "distance": 37253,
+        "range": 29
+      },
+      "68": {
+        "distance": 21684,
+        "range": 17
+      },
+      "69": {
+        "distance": 31904,
+        "range": 25
+      },
+      "70": {
+        "distance": 31845,
+        "range": 25
+      },
+      "71": {
+        "distance": 44947,
+        "range": 35
+      },
+      "72": {
+        "distance": 47297,
+        "range": 37
       }
     }
   },
@@ -7755,6 +7811,34 @@
       "65": {
         "distance": 32617,
         "range": 28
+      },
+      "66": {
+        "distance": 25449,
+        "range": 19
+      },
+      "67": {
+        "distance": 38033,
+        "range": 29
+      },
+      "68": {
+        "distance": 38187,
+        "range": 30
+      },
+      "69": {
+        "distance": 34176,
+        "range": 26
+      },
+      "70": {
+        "distance": 25418,
+        "range": 19
+      },
+      "71": {
+        "distance": 24482,
+        "range": 19
+      },
+      "72": {
+        "distance": 24580,
+        "range": 19
       }
     }
   },
@@ -7849,6 +7933,34 @@
       "65": {
         "distance": 21522,
         "range": 18
+      },
+      "66": {
+        "distance": 25596,
+        "range": 20
+      },
+      "67": {
+        "distance": 28524,
+        "range": 22
+      },
+      "68": {
+        "distance": 29231,
+        "range": 22
+      },
+      "69": {
+        "distance": 26190,
+        "range": 20
+      },
+      "70": {
+        "distance": 28035,
+        "range": 22
+      },
+      "71": {
+        "distance": 36152,
+        "range": 28
+      },
+      "72": {
+        "distance": 40887,
+        "range": 32
       }
     }
   },
@@ -7942,6 +8054,34 @@
       "65": {
         "distance": 39793,
         "range": 34
+      },
+      "66": {
+        "distance": 37694,
+        "range": 29
+      },
+      "67": {
+        "distance": 37111,
+        "range": 29
+      },
+      "68": {
+        "distance": 48425,
+        "range": 38
+      },
+      "69": {
+        "distance": 38564,
+        "range": 30
+      },
+      "70": {
+        "distance": 37479,
+        "range": 29
+      },
+      "71": {
+        "distance": 34302,
+        "range": 26
+      },
+      "72": {
+        "distance": 40071,
+        "range": 31
       }
     }
   },
@@ -8036,6 +8176,34 @@
       "65": {
         "distance": 28129,
         "range": 24
+      },
+      "66": {
+        "distance": 30351,
+        "range": 23
+      },
+      "67": {
+        "distance": 19394,
+        "range": 15
+      },
+      "68": {
+        "distance": 40934,
+        "range": 32
+      },
+      "69": {
+        "distance": 23288,
+        "range": 18
+      },
+      "70": {
+        "distance": 29237,
+        "range": 22
+      },
+      "71": {
+        "distance": 28612,
+        "range": 22
+      },
+      "72": {
+        "distance": 37020,
+        "range": 29
       }
     }
   },
@@ -8125,6 +8293,34 @@
       "65": {
         "distance": 39568,
         "range": 34
+      },
+      "66": {
+        "distance": 38358,
+        "range": 30
+      },
+      "67": {
+        "distance": 33281,
+        "range": 26
+      },
+      "68": {
+        "distance": 49858,
+        "range": 39
+      },
+      "69": {
+        "distance": 36354,
+        "range": 28
+      },
+      "70": {
+        "distance": 37438,
+        "range": 29
+      },
+      "71": {
+        "distance": 32897,
+        "range": 25
+      },
+      "72": {
+        "distance": 40120,
+        "range": 31
       }
     }
   },
@@ -8219,6 +8415,34 @@
       "65": {
         "distance": 17360,
         "range": 15
+      },
+      "66": {
+        "distance": 22223,
+        "range": 17
+      },
+      "67": {
+        "distance": 11043,
+        "range": 8
+      },
+      "68": {
+        "distance": 32136,
+        "range": 25
+      },
+      "69": {
+        "distance": 11089,
+        "range": 8
+      },
+      "70": {
+        "distance": 20912,
+        "range": 16
+      },
+      "71": {
+        "distance": 25583,
+        "range": 20
+      },
+      "72": {
+        "distance": 32831,
+        "range": 25
       }
     }
   },
@@ -8308,6 +8532,34 @@
       "65": {
         "distance": 22803,
         "range": 19
+      },
+      "66": {
+        "distance": 29500,
+        "range": 23
+      },
+      "67": {
+        "distance": 13924,
+        "range": 10
+      },
+      "68": {
+        "distance": 36594,
+        "range": 28
+      },
+      "69": {
+        "distance": 17505,
+        "range": 13
+      },
+      "70": {
+        "distance": 28759,
+        "range": 22
+      },
+      "71": {
+        "distance": 33073,
+        "range": 25
+      },
+      "72": {
+        "distance": 40864,
+        "range": 32
       }
     }
   },
@@ -8402,6 +8654,34 @@
       "65": {
         "distance": 19875,
         "range": 17
+      },
+      "66": {
+        "distance": 28839,
+        "range": 22
+      },
+      "67": {
+        "distance": 16454,
+        "range": 12
+      },
+      "68": {
+        "distance": 32891,
+        "range": 25
+      },
+      "69": {
+        "distance": 15964,
+        "range": 12
+      },
+      "70": {
+        "distance": 28434,
+        "range": 22
+      },
+      "71": {
+        "distance": 36350,
+        "range": 28
+      },
+      "72": {
+        "distance": 42575,
+        "range": 33
       }
     }
   },
@@ -8495,6 +8775,34 @@
       "65": {
         "distance": 10322,
         "range": 9
+      },
+      "66": {
+        "distance": 18937,
+        "range": 14
+      },
+      "67": {
+        "distance": 16772,
+        "range": 13
+      },
+      "68": {
+        "distance": 24674,
+        "range": 19
+      },
+      "69": {
+        "distance": 10652,
+        "range": 8
+      },
+      "70": {
+        "distance": 19278,
+        "range": 15
+      },
+      "71": {
+        "distance": 29920,
+        "range": 23
+      },
+      "72": {
+        "distance": 34707,
+        "range": 27
       }
     }
   },
@@ -8584,6 +8892,34 @@
       "65": {
         "distance": 24367,
         "range": 20
+      },
+      "66": {
+        "distance": 29802,
+        "range": 23
+      },
+      "67": {
+        "distance": 6369,
+        "range": 5
+      },
+      "68": {
+        "distance": 39508,
+        "range": 31
+      },
+      "69": {
+        "distance": 14026,
+        "range": 11
+      },
+      "70": {
+        "distance": 27433,
+        "range": 21
+      },
+      "71": {
+        "distance": 28884,
+        "range": 22
+      },
+      "72": {
+        "distance": 37476,
+        "range": 29
       }
     }
   },
@@ -8620,7 +8956,12 @@
     "coordY": 305,
     "coordZ": 100,
     "unlockedBy": 61,
-    "unlocks": null,
+    "unlocks": {
+      "sectors": [
+        67,
+        69
+      ]
+    },
     "toDestination": {
       "52": {
         "distance": 35154,
@@ -8673,6 +9014,34 @@
       "65": {
         "distance": 18027,
         "range": 15
+      },
+      "66": {
+        "distance": 27688,
+        "range": 21
+      },
+      "67": {
+        "distance": 20633,
+        "range": 16
+      },
+      "68": {
+        "distance": 29454,
+        "range": 23
+      },
+      "69": {
+        "distance": 16951,
+        "range": 13
+      },
+      "70": {
+        "distance": 27830,
+        "range": 21
+      },
+      "71": {
+        "distance": 38130,
+        "range": 29
+      },
+      "72": {
+        "distance": 42953,
+        "range": 33
       }
     }
   },
@@ -8709,7 +9078,11 @@
     "coordY": 637,
     "coordZ": 300,
     "unlockedBy": 62,
-    "unlocks": null,
+    "unlocks": {
+      "sectors": [
+        66
+      ]
+    },
     "toDestination": {
       "52": {
         "distance": 26717,
@@ -8762,6 +9135,842 @@
       "64": {
         "distance": 18027,
         "range": 15
+      },
+      "66": {
+        "distance": 10530,
+        "range": 8
+      },
+      "67": {
+        "distance": 24312,
+        "range": 19
+      },
+      "68": {
+        "distance": 15525,
+        "range": 12
+      },
+      "69": {
+        "distance": 14409,
+        "range": 11
+      },
+      "70": {
+        "distance": 13390,
+        "range": 10
+      },
+      "71": {
+        "distance": 29055,
+        "range": 22
+      },
+      "72": {
+        "distance": 30539,
+        "range": 23
+      }
+    }
+  },
+  "66": {
+    "id": 66,
+    "rank": 81,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "The Forest of Kelp",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Forest of Kelp",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 3,
+    "expReward": 958391,
+    "surveyRange": 31,
+    "surveyDistance": 70000,
+    "coordX": 626,
+    "coordY": 805,
+    "coordZ": 500,
+    "unlockedBy": 65,
+    "toDestination": {
+      "52": {
+        "distance": 31282,
+        "range": 24
+      },
+      "53": {
+        "distance": 27271,
+        "range": 21
+      },
+      "54": {
+        "distance": 25449,
+        "range": 19
+      },
+      "55": {
+        "distance": 25596,
+        "range": 20
+      },
+      "56": {
+        "distance": 37694,
+        "range": 29
+      },
+      "57": {
+        "distance": 30351,
+        "range": 23
+      },
+      "58": {
+        "distance": 38358,
+        "range": 30
+      },
+      "59": {
+        "distance": 22223,
+        "range": 17
+      },
+      "60": {
+        "distance": 29500,
+        "range": 23
+      },
+      "61": {
+        "distance": 28839,
+        "range": 22
+      },
+      "62": {
+        "distance": 18937,
+        "range": 14
+      },
+      "63": {
+        "distance": 29802,
+        "range": 23
+      },
+      "64": {
+        "distance": 27688,
+        "range": 21
+      },
+      "65": {
+        "distance": 10530,
+        "range": 8
+      },
+      "67": {
+        "distance": 27943,
+        "range": 21
+      },
+      "68": {
+        "distance": 17608,
+        "range": 13
+      },
+      "69": {
+        "distance": 17833,
+        "range": 14
+      },
+      "70": {
+        "distance": 6168,
+        "range": 4
+      },
+      "71": {
+        "distance": 23200,
+        "range": 18
+      },
+      "72": {
+        "distance": 21884,
+        "range": 17
+      }
+    }
+  },
+  "67": {
+    "id": 67,
+    "rank": 83,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Sea of Jade 5",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Sea of Jade 5",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 4,
+    "expReward": 1006910,
+    "surveyRange": 32,
+    "surveyDistance": 72800,
+    "coordX": 938,
+    "coordY": 188,
+    "coordZ": 600,
+    "unlockedBy": 64,
+    "toDestination": {
+      "52": {
+        "distance": 45365,
+        "range": 35
+      },
+      "53": {
+        "distance": 37253,
+        "range": 29
+      },
+      "54": {
+        "distance": 38033,
+        "range": 29
+      },
+      "55": {
+        "distance": 28524,
+        "range": 22
+      },
+      "56": {
+        "distance": 37111,
+        "range": 29
+      },
+      "57": {
+        "distance": 19394,
+        "range": 15
+      },
+      "58": {
+        "distance": 33281,
+        "range": 26
+      },
+      "59": {
+        "distance": 11043,
+        "range": 8
+      },
+      "60": {
+        "distance": 13924,
+        "range": 10
+      },
+      "61": {
+        "distance": 16454,
+        "range": 12
+      },
+      "62": {
+        "distance": 16772,
+        "range": 13
+      },
+      "63": {
+        "distance": 6369,
+        "range": 5
+      },
+      "64": {
+        "distance": 20633,
+        "range": 16
+      },
+      "65": {
+        "distance": 24312,
+        "range": 19
+      },
+      "66": {
+        "distance": 27943,
+        "range": 21
+      },
+      "68": {
+        "distance": 39834,
+        "range": 31
+      },
+      "69": {
+        "distance": 11203,
+        "range": 8
+      },
+      "70": {
+        "distance": 24415,
+        "range": 19
+      },
+      "71": {
+        "distance": 23712,
+        "range": 18
+      },
+      "72": {
+        "distance": 32526,
+        "range": 25
+      }
+    }
+  },
+  "68": {
+    "id": 68,
+    "rank": 85,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Bladefall Chasm",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Bladefall Chasm",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 4,
+    "expReward": 1057886,
+    "surveyRange": 33,
+    "surveyDistance": 75600,
+    "coordX": 481,
+    "coordY": 918,
+    "coordZ": 100,
+    "toDestination": {
+      "52": {
+        "distance": 21571,
+        "range": 16
+      },
+      "53": {
+        "distance": 21684,
+        "range": 17
+      },
+      "54": {
+        "distance": 38187,
+        "range": 30
+      },
+      "55": {
+        "distance": 29231,
+        "range": 22
+      },
+      "56": {
+        "distance": 48425,
+        "range": 38
+      },
+      "57": {
+        "distance": 40934,
+        "range": 32
+      },
+      "58": {
+        "distance": 49858,
+        "range": 39
+      },
+      "59": {
+        "distance": 32136,
+        "range": 25
+      },
+      "60": {
+        "distance": 36594,
+        "range": 28
+      },
+      "61": {
+        "distance": 32891,
+        "range": 25
+      },
+      "62": {
+        "distance": 24674,
+        "range": 19
+      },
+      "63": {
+        "distance": 39508,
+        "range": 31
+      },
+      "64": {
+        "distance": 29454,
+        "range": 23
+      },
+      "65": {
+        "distance": 15525,
+        "range": 12
+      },
+      "66": {
+        "distance": 17608,
+        "range": 13
+      },
+      "67": {
+        "distance": 39834,
+        "range": 31
+      },
+      "69": {
+        "distance": 29669,
+        "range": 23
+      },
+      "70": {
+        "distance": 23280,
+        "range": 18
+      },
+      "71": {
+        "distance": 40757,
+        "range": 32
+      },
+      "72": {
+        "distance": 38659,
+        "range": 30
+      }
+    }
+  },
+  "69": {
+    "id": 69,
+    "rank": 87,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Stormport",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Stormport",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 5,
+    "expReward": 1111443,
+    "surveyRange": 34,
+    "surveyDistance": 78400,
+    "coordX": 889,
+    "coordY": 445,
+    "coordZ": 500,
+    "unlockedBy": 64,
+    "toDestination": {
+      "52": {
+        "distance": 39026,
+        "range": 30
+      },
+      "53": {
+        "distance": 31904,
+        "range": 25
+      },
+      "54": {
+        "distance": 34176,
+        "range": 26
+      },
+      "55": {
+        "distance": 26190,
+        "range": 20
+      },
+      "56": {
+        "distance": 38564,
+        "range": 30
+      },
+      "57": {
+        "distance": 23288,
+        "range": 18
+      },
+      "58": {
+        "distance": 36354,
+        "range": 28
+      },
+      "59": {
+        "distance": 11089,
+        "range": 8
+      },
+      "60": {
+        "distance": 17505,
+        "range": 13
+      },
+      "61": {
+        "distance": 15964,
+        "range": 12
+      },
+      "62": {
+        "distance": 10652,
+        "range": 8
+      },
+      "63": {
+        "distance": 14026,
+        "range": 11
+      },
+      "64": {
+        "distance": 16951,
+        "range": 13
+      },
+      "65": {
+        "distance": 14409,
+        "range": 11
+      },
+      "66": {
+        "distance": 17833,
+        "range": 14
+      },
+      "67": {
+        "distance": 11203,
+        "range": 8
+      },
+      "68": {
+        "distance": 29669,
+        "range": 23
+      },
+      "70": {
+        "distance": 14706,
+        "range": 11
+      },
+      "71": {
+        "distance": 21201,
+        "range": 16
+      },
+      "72": {
+        "distance": 26817,
+        "range": 21
+      }
+    }
+  },
+  "70": {
+    "id": 70,
+    "rank": 88,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Wyrm's Rest",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Wyrm's Rest",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 5,
+    "expReward": 1139230,
+    "surveyRange": 35,
+    "surveyDistance": 79800,
+    "coordX": 736,
+    "coordY": 764,
+    "coordZ": 600,
+    "toDestination": {
+      "52": {
+        "distance": 36693,
+        "range": 28
+      },
+      "53": {
+        "distance": 31845,
+        "range": 25
+      },
+      "54": {
+        "distance": 25418,
+        "range": 19
+      },
+      "55": {
+        "distance": 28035,
+        "range": 22
+      },
+      "56": {
+        "distance": 37479,
+        "range": 29
+      },
+      "57": {
+        "distance": 29237,
+        "range": 22
+      },
+      "58": {
+        "distance": 37438,
+        "range": 29
+      },
+      "59": {
+        "distance": 20912,
+        "range": 16
+      },
+      "60": {
+        "distance": 28759,
+        "range": 22
+      },
+      "61": {
+        "distance": 28434,
+        "range": 22
+      },
+      "62": {
+        "distance": 19278,
+        "range": 15
+      },
+      "63": {
+        "distance": 27433,
+        "range": 21
+      },
+      "64": {
+        "distance": 27830,
+        "range": 21
+      },
+      "65": {
+        "distance": 13390,
+        "range": 10
+      },
+      "66": {
+        "distance": 6168,
+        "range": 4
+      },
+      "67": {
+        "distance": 24415,
+        "range": 19
+      },
+      "68": {
+        "distance": 23280,
+        "range": 18
+      },
+      "69": {
+        "distance": 14706,
+        "range": 11
+      },
+      "71": {
+        "distance": 17666,
+        "range": 13
+      },
+      "72": {
+        "distance": 17185,
+        "range": 13
+      }
+    }
+  },
+  "71": {
+    "id": 71,
+    "rank": 89,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Sea of Jade 6",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Sea of Jade 6",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 5,
+    "expReward": 1167711,
+    "surveyRange": 36,
+    "surveyDistance": 81200,
+    "coordX": 852,
+    "coordY": 617,
+    "coordZ": 1000,
+    "toDestination": {
+      "52": {
+        "distance": 50937,
+        "range": 40
+      },
+      "53": {
+        "distance": 44947,
+        "range": 35
+      },
+      "54": {
+        "distance": 24482,
+        "range": 19
+      },
+      "55": {
+        "distance": 36152,
+        "range": 28
+      },
+      "56": {
+        "distance": 34302,
+        "range": 26
+      },
+      "57": {
+        "distance": 28612,
+        "range": 22
+      },
+      "58": {
+        "distance": 32897,
+        "range": 25
+      },
+      "59": {
+        "distance": 25583,
+        "range": 20
+      },
+      "60": {
+        "distance": 33073,
+        "range": 25
+      },
+      "61": {
+        "distance": 36350,
+        "range": 28
+      },
+      "62": {
+        "distance": 29920,
+        "range": 23
+      },
+      "63": {
+        "distance": 28884,
+        "range": 22
+      },
+      "64": {
+        "distance": 38130,
+        "range": 29
+      },
+      "65": {
+        "distance": 29055,
+        "range": 22
+      },
+      "66": {
+        "distance": 23200,
+        "range": 18
+      },
+      "67": {
+        "distance": 23712,
+        "range": 18
+      },
+      "68": {
+        "distance": 40757,
+        "range": 32
+      },
+      "69": {
+        "distance": 21201,
+        "range": 16
+      },
+      "70": {
+        "distance": 17666,
+        "range": 13
+      },
+      "72": {
+        "distance": 10869,
+        "range": 8
+      }
+    }
+  },
+  "72": {
+    "id": 72,
+    "rank": 90,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "The Devil's Crypt",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Devil's Crypt",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 5,
+    "expReward": 1196904,
+    "surveyRange": 37,
+    "surveyDistance": 82600,
+    "coordX": 832,
+    "coordY": 888,
+    "coordZ": 1000,
+    "toDestination": {
+      "52": {
+        "distance": 51815,
+        "range": 40
+      },
+      "53": {
+        "distance": 47297,
+        "range": 37
+      },
+      "54": {
+        "distance": 24580,
+        "range": 19
+      },
+      "55": {
+        "distance": 40887,
+        "range": 32
+      },
+      "56": {
+        "distance": 40071,
+        "range": 31
+      },
+      "57": {
+        "distance": 37020,
+        "range": 29
+      },
+      "58": {
+        "distance": 40120,
+        "range": 31
+      },
+      "59": {
+        "distance": 32831,
+        "range": 25
+      },
+      "60": {
+        "distance": 40864,
+        "range": 32
+      },
+      "61": {
+        "distance": 42575,
+        "range": 33
+      },
+      "62": {
+        "distance": 34707,
+        "range": 27
+      },
+      "63": {
+        "distance": 37476,
+        "range": 29
+      },
+      "64": {
+        "distance": 42953,
+        "range": 33
+      },
+      "65": {
+        "distance": 30539,
+        "range": 23
+      },
+      "66": {
+        "distance": 21884,
+        "range": 17
+      },
+      "67": {
+        "distance": 32526,
+        "range": 25
+      },
+      "68": {
+        "distance": 38659,
+        "range": 30
+      },
+      "69": {
+        "distance": 26817,
+        "range": 21
+      },
+      "70": {
+        "distance": 17185,
+        "range": 13
+      },
+      "71": {
+        "distance": 10869,
+        "range": 8
       }
     }
   },
@@ -16622,6 +17831,34 @@
       "65": {
         "distance": 21343,
         "range": 18
+      },
+      "66": {
+        "distance": 27271,
+        "range": 21
+      },
+      "67": {
+        "distance": 37253,
+        "range": 29
+      },
+      "68": {
+        "distance": 21684,
+        "range": 17
+      },
+      "69": {
+        "distance": 31904,
+        "range": 25
+      },
+      "70": {
+        "distance": 31845,
+        "range": 25
+      },
+      "71": {
+        "distance": 44947,
+        "range": 35
+      },
+      "72": {
+        "distance": 47297,
+        "range": 37
       }
     },
     "breakpoints": {
@@ -16722,6 +17959,34 @@
       "65": {
         "distance": 32617,
         "range": 28
+      },
+      "66": {
+        "distance": 25449,
+        "range": 19
+      },
+      "67": {
+        "distance": 38033,
+        "range": 29
+      },
+      "68": {
+        "distance": 38187,
+        "range": 30
+      },
+      "69": {
+        "distance": 34176,
+        "range": 26
+      },
+      "70": {
+        "distance": 25418,
+        "range": 19
+      },
+      "71": {
+        "distance": 24482,
+        "range": 19
+      },
+      "72": {
+        "distance": 24580,
+        "range": 19
       }
     },
     "breakpoints": {
@@ -16827,6 +18092,34 @@
       "65": {
         "distance": 21522,
         "range": 18
+      },
+      "66": {
+        "distance": 25596,
+        "range": 20
+      },
+      "67": {
+        "distance": 28524,
+        "range": 22
+      },
+      "68": {
+        "distance": 29231,
+        "range": 22
+      },
+      "69": {
+        "distance": 26190,
+        "range": 20
+      },
+      "70": {
+        "distance": 28035,
+        "range": 22
+      },
+      "71": {
+        "distance": 36152,
+        "range": 28
+      },
+      "72": {
+        "distance": 40887,
+        "range": 32
       }
     },
     "breakpoints": {
@@ -16931,6 +18224,34 @@
       "65": {
         "distance": 39793,
         "range": 34
+      },
+      "66": {
+        "distance": 37694,
+        "range": 29
+      },
+      "67": {
+        "distance": 37111,
+        "range": 29
+      },
+      "68": {
+        "distance": 48425,
+        "range": 38
+      },
+      "69": {
+        "distance": 38564,
+        "range": 30
+      },
+      "70": {
+        "distance": 37479,
+        "range": 29
+      },
+      "71": {
+        "distance": 34302,
+        "range": 26
+      },
+      "72": {
+        "distance": 40071,
+        "range": 31
       }
     },
     "breakpoints": {
@@ -17036,6 +18357,34 @@
       "65": {
         "distance": 28129,
         "range": 24
+      },
+      "66": {
+        "distance": 30351,
+        "range": 23
+      },
+      "67": {
+        "distance": 19394,
+        "range": 15
+      },
+      "68": {
+        "distance": 40934,
+        "range": 32
+      },
+      "69": {
+        "distance": 23288,
+        "range": 18
+      },
+      "70": {
+        "distance": 29237,
+        "range": 22
+      },
+      "71": {
+        "distance": 28612,
+        "range": 22
+      },
+      "72": {
+        "distance": 37020,
+        "range": 29
       }
     },
     "breakpoints": {
@@ -17136,6 +18485,34 @@
       "65": {
         "distance": 39568,
         "range": 34
+      },
+      "66": {
+        "distance": 38358,
+        "range": 30
+      },
+      "67": {
+        "distance": 33281,
+        "range": 26
+      },
+      "68": {
+        "distance": 49858,
+        "range": 39
+      },
+      "69": {
+        "distance": 36354,
+        "range": 28
+      },
+      "70": {
+        "distance": 37438,
+        "range": 29
+      },
+      "71": {
+        "distance": 32897,
+        "range": 25
+      },
+      "72": {
+        "distance": 40120,
+        "range": 31
       }
     },
     "breakpoints": {
@@ -17241,6 +18618,34 @@
       "65": {
         "distance": 17360,
         "range": 15
+      },
+      "66": {
+        "distance": 22223,
+        "range": 17
+      },
+      "67": {
+        "distance": 11043,
+        "range": 8
+      },
+      "68": {
+        "distance": 32136,
+        "range": 25
+      },
+      "69": {
+        "distance": 11089,
+        "range": 8
+      },
+      "70": {
+        "distance": 20912,
+        "range": 16
+      },
+      "71": {
+        "distance": 25583,
+        "range": 20
+      },
+      "72": {
+        "distance": 32831,
+        "range": 25
       }
     },
     "breakpoints": {
@@ -17341,6 +18746,34 @@
       "65": {
         "distance": 22803,
         "range": 19
+      },
+      "66": {
+        "distance": 29500,
+        "range": 23
+      },
+      "67": {
+        "distance": 13924,
+        "range": 10
+      },
+      "68": {
+        "distance": 36594,
+        "range": 28
+      },
+      "69": {
+        "distance": 17505,
+        "range": 13
+      },
+      "70": {
+        "distance": 28759,
+        "range": 22
+      },
+      "71": {
+        "distance": 33073,
+        "range": 25
+      },
+      "72": {
+        "distance": 40864,
+        "range": 32
       }
     },
     "breakpoints": {
@@ -17446,6 +18879,34 @@
       "65": {
         "distance": 19875,
         "range": 17
+      },
+      "66": {
+        "distance": 28839,
+        "range": 22
+      },
+      "67": {
+        "distance": 16454,
+        "range": 12
+      },
+      "68": {
+        "distance": 32891,
+        "range": 25
+      },
+      "69": {
+        "distance": 15964,
+        "range": 12
+      },
+      "70": {
+        "distance": 28434,
+        "range": 22
+      },
+      "71": {
+        "distance": 36350,
+        "range": 28
+      },
+      "72": {
+        "distance": 42575,
+        "range": 33
       }
     },
     "breakpoints": {
@@ -17550,6 +19011,34 @@
       "65": {
         "distance": 10322,
         "range": 9
+      },
+      "66": {
+        "distance": 18937,
+        "range": 14
+      },
+      "67": {
+        "distance": 16772,
+        "range": 13
+      },
+      "68": {
+        "distance": 24674,
+        "range": 19
+      },
+      "69": {
+        "distance": 10652,
+        "range": 8
+      },
+      "70": {
+        "distance": 19278,
+        "range": 15
+      },
+      "71": {
+        "distance": 29920,
+        "range": 23
+      },
+      "72": {
+        "distance": 34707,
+        "range": 27
       }
     },
     "breakpoints": {
@@ -17650,6 +19139,34 @@
       "65": {
         "distance": 24367,
         "range": 20
+      },
+      "66": {
+        "distance": 29802,
+        "range": 23
+      },
+      "67": {
+        "distance": 6369,
+        "range": 5
+      },
+      "68": {
+        "distance": 39508,
+        "range": 31
+      },
+      "69": {
+        "distance": 14026,
+        "range": 11
+      },
+      "70": {
+        "distance": 27433,
+        "range": 21
+      },
+      "71": {
+        "distance": 28884,
+        "range": 22
+      },
+      "72": {
+        "distance": 37476,
+        "range": 29
       }
     },
     "breakpoints": {
@@ -17697,7 +19214,12 @@
     "coordY": 305,
     "coordZ": 100,
     "unlockedBy": 61,
-    "unlocks": null,
+    "unlocks": {
+      "sectors": [
+        67,
+        69
+      ]
+    },
     "toDestination": {
       "52": {
         "distance": 35154,
@@ -17750,6 +19272,34 @@
       "65": {
         "distance": 18027,
         "range": 15
+      },
+      "66": {
+        "distance": 27688,
+        "range": 21
+      },
+      "67": {
+        "distance": 20633,
+        "range": 16
+      },
+      "68": {
+        "distance": 29454,
+        "range": 23
+      },
+      "69": {
+        "distance": 16951,
+        "range": 13
+      },
+      "70": {
+        "distance": 27830,
+        "range": 21
+      },
+      "71": {
+        "distance": 38130,
+        "range": 29
+      },
+      "72": {
+        "distance": 42953,
+        "range": 33
       }
     },
     "breakpoints": {
@@ -17797,7 +19347,11 @@
     "coordY": 637,
     "coordZ": 300,
     "unlockedBy": 62,
-    "unlocks": null,
+    "unlocks": {
+      "sectors": [
+        66
+      ]
+    },
     "toDestination": {
       "52": {
         "distance": 26717,
@@ -17850,6 +19404,34 @@
       "64": {
         "distance": 18027,
         "range": 15
+      },
+      "66": {
+        "distance": 10530,
+        "range": 8
+      },
+      "67": {
+        "distance": 24312,
+        "range": 19
+      },
+      "68": {
+        "distance": 15525,
+        "range": 12
+      },
+      "69": {
+        "distance": 14409,
+        "range": 11
+      },
+      "70": {
+        "distance": 13390,
+        "range": 10
+      },
+      "71": {
+        "distance": 29055,
+        "range": 22
+      },
+      "72": {
+        "distance": 30539,
+        "range": 23
       }
     },
     "breakpoints": {
@@ -17862,6 +19444,891 @@
         "optim": 280
       },
       "favor": 190
+    }
+  },
+  "66": {
+    "id": 66,
+    "rank": 81,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "The Forest of Kelp",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Forest of Kelp",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 3,
+    "expReward": 958391,
+    "surveyRange": 31,
+    "surveyDistance": 70000,
+    "coordX": 626,
+    "coordY": 805,
+    "coordZ": 500,
+    "unlockedBy": 65,
+    "toDestination": {
+      "52": {
+        "distance": 31282,
+        "range": 24
+      },
+      "53": {
+        "distance": 27271,
+        "range": 21
+      },
+      "54": {
+        "distance": 25449,
+        "range": 19
+      },
+      "55": {
+        "distance": 25596,
+        "range": 20
+      },
+      "56": {
+        "distance": 37694,
+        "range": 29
+      },
+      "57": {
+        "distance": 30351,
+        "range": 23
+      },
+      "58": {
+        "distance": 38358,
+        "range": 30
+      },
+      "59": {
+        "distance": 22223,
+        "range": 17
+      },
+      "60": {
+        "distance": 29500,
+        "range": 23
+      },
+      "61": {
+        "distance": 28839,
+        "range": 22
+      },
+      "62": {
+        "distance": 18937,
+        "range": 14
+      },
+      "63": {
+        "distance": 29802,
+        "range": 23
+      },
+      "64": {
+        "distance": 27688,
+        "range": 21
+      },
+      "65": {
+        "distance": 10530,
+        "range": 8
+      },
+      "67": {
+        "distance": 27943,
+        "range": 21
+      },
+      "68": {
+        "distance": 17608,
+        "range": 13
+      },
+      "69": {
+        "distance": 17833,
+        "range": 14
+      },
+      "70": {
+        "distance": 6168,
+        "range": 4
+      },
+      "71": {
+        "distance": 23200,
+        "range": 18
+      },
+      "72": {
+        "distance": 21884,
+        "range": 17
+      }
+    },
+    "breakpoints": {
+      "surveillance": {
+        "mid": null,
+        "high": null
+      },
+      "retrieval": {
+        "norm": null,
+        "optim": null
+      },
+      "favor": null
+    }
+  },
+  "67": {
+    "id": 67,
+    "rank": 83,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Sea of Jade 5",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Sea of Jade 5",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 4,
+    "expReward": 1006910,
+    "surveyRange": 32,
+    "surveyDistance": 72800,
+    "coordX": 938,
+    "coordY": 188,
+    "coordZ": 600,
+    "unlockedBy": 64,
+    "toDestination": {
+      "52": {
+        "distance": 45365,
+        "range": 35
+      },
+      "53": {
+        "distance": 37253,
+        "range": 29
+      },
+      "54": {
+        "distance": 38033,
+        "range": 29
+      },
+      "55": {
+        "distance": 28524,
+        "range": 22
+      },
+      "56": {
+        "distance": 37111,
+        "range": 29
+      },
+      "57": {
+        "distance": 19394,
+        "range": 15
+      },
+      "58": {
+        "distance": 33281,
+        "range": 26
+      },
+      "59": {
+        "distance": 11043,
+        "range": 8
+      },
+      "60": {
+        "distance": 13924,
+        "range": 10
+      },
+      "61": {
+        "distance": 16454,
+        "range": 12
+      },
+      "62": {
+        "distance": 16772,
+        "range": 13
+      },
+      "63": {
+        "distance": 6369,
+        "range": 5
+      },
+      "64": {
+        "distance": 20633,
+        "range": 16
+      },
+      "65": {
+        "distance": 24312,
+        "range": 19
+      },
+      "66": {
+        "distance": 27943,
+        "range": 21
+      },
+      "68": {
+        "distance": 39834,
+        "range": 31
+      },
+      "69": {
+        "distance": 11203,
+        "range": 8
+      },
+      "70": {
+        "distance": 24415,
+        "range": 19
+      },
+      "71": {
+        "distance": 23712,
+        "range": 18
+      },
+      "72": {
+        "distance": 32526,
+        "range": 25
+      }
+    },
+    "breakpoints": {
+      "surveillance": {
+        "mid": null,
+        "high": null
+      },
+      "retrieval": {
+        "norm": null,
+        "optim": null
+      },
+      "favor": null
+    }
+  },
+  "68": {
+    "id": 68,
+    "rank": 85,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Bladefall Chasm",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Bladefall Chasm",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 4,
+    "expReward": 1057886,
+    "surveyRange": 33,
+    "surveyDistance": 75600,
+    "coordX": 481,
+    "coordY": 918,
+    "coordZ": 100,
+    "toDestination": {
+      "52": {
+        "distance": 21571,
+        "range": 16
+      },
+      "53": {
+        "distance": 21684,
+        "range": 17
+      },
+      "54": {
+        "distance": 38187,
+        "range": 30
+      },
+      "55": {
+        "distance": 29231,
+        "range": 22
+      },
+      "56": {
+        "distance": 48425,
+        "range": 38
+      },
+      "57": {
+        "distance": 40934,
+        "range": 32
+      },
+      "58": {
+        "distance": 49858,
+        "range": 39
+      },
+      "59": {
+        "distance": 32136,
+        "range": 25
+      },
+      "60": {
+        "distance": 36594,
+        "range": 28
+      },
+      "61": {
+        "distance": 32891,
+        "range": 25
+      },
+      "62": {
+        "distance": 24674,
+        "range": 19
+      },
+      "63": {
+        "distance": 39508,
+        "range": 31
+      },
+      "64": {
+        "distance": 29454,
+        "range": 23
+      },
+      "65": {
+        "distance": 15525,
+        "range": 12
+      },
+      "66": {
+        "distance": 17608,
+        "range": 13
+      },
+      "67": {
+        "distance": 39834,
+        "range": 31
+      },
+      "69": {
+        "distance": 29669,
+        "range": 23
+      },
+      "70": {
+        "distance": 23280,
+        "range": 18
+      },
+      "71": {
+        "distance": 40757,
+        "range": 32
+      },
+      "72": {
+        "distance": 38659,
+        "range": 30
+      }
+    },
+    "breakpoints": {
+      "surveillance": {
+        "mid": null,
+        "high": null
+      },
+      "retrieval": {
+        "norm": null,
+        "optim": null
+      },
+      "favor": null
+    }
+  },
+  "69": {
+    "id": 69,
+    "rank": 87,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Stormport",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Stormport",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 5,
+    "expReward": 1111443,
+    "surveyRange": 34,
+    "surveyDistance": 78400,
+    "coordX": 889,
+    "coordY": 445,
+    "coordZ": 500,
+    "unlockedBy": 64,
+    "toDestination": {
+      "52": {
+        "distance": 39026,
+        "range": 30
+      },
+      "53": {
+        "distance": 31904,
+        "range": 25
+      },
+      "54": {
+        "distance": 34176,
+        "range": 26
+      },
+      "55": {
+        "distance": 26190,
+        "range": 20
+      },
+      "56": {
+        "distance": 38564,
+        "range": 30
+      },
+      "57": {
+        "distance": 23288,
+        "range": 18
+      },
+      "58": {
+        "distance": 36354,
+        "range": 28
+      },
+      "59": {
+        "distance": 11089,
+        "range": 8
+      },
+      "60": {
+        "distance": 17505,
+        "range": 13
+      },
+      "61": {
+        "distance": 15964,
+        "range": 12
+      },
+      "62": {
+        "distance": 10652,
+        "range": 8
+      },
+      "63": {
+        "distance": 14026,
+        "range": 11
+      },
+      "64": {
+        "distance": 16951,
+        "range": 13
+      },
+      "65": {
+        "distance": 14409,
+        "range": 11
+      },
+      "66": {
+        "distance": 17833,
+        "range": 14
+      },
+      "67": {
+        "distance": 11203,
+        "range": 8
+      },
+      "68": {
+        "distance": 29669,
+        "range": 23
+      },
+      "70": {
+        "distance": 14706,
+        "range": 11
+      },
+      "71": {
+        "distance": 21201,
+        "range": 16
+      },
+      "72": {
+        "distance": 26817,
+        "range": 21
+      }
+    },
+    "breakpoints": {
+      "surveillance": {
+        "mid": null,
+        "high": null
+      },
+      "retrieval": {
+        "norm": null,
+        "optim": null
+      },
+      "favor": null
+    }
+  },
+  "70": {
+    "id": 70,
+    "rank": 88,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Wyrm's Rest",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Wyrm's Rest",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 5,
+    "expReward": 1139230,
+    "surveyRange": 35,
+    "surveyDistance": 79800,
+    "coordX": 736,
+    "coordY": 764,
+    "coordZ": 600,
+    "toDestination": {
+      "52": {
+        "distance": 36693,
+        "range": 28
+      },
+      "53": {
+        "distance": 31845,
+        "range": 25
+      },
+      "54": {
+        "distance": 25418,
+        "range": 19
+      },
+      "55": {
+        "distance": 28035,
+        "range": 22
+      },
+      "56": {
+        "distance": 37479,
+        "range": 29
+      },
+      "57": {
+        "distance": 29237,
+        "range": 22
+      },
+      "58": {
+        "distance": 37438,
+        "range": 29
+      },
+      "59": {
+        "distance": 20912,
+        "range": 16
+      },
+      "60": {
+        "distance": 28759,
+        "range": 22
+      },
+      "61": {
+        "distance": 28434,
+        "range": 22
+      },
+      "62": {
+        "distance": 19278,
+        "range": 15
+      },
+      "63": {
+        "distance": 27433,
+        "range": 21
+      },
+      "64": {
+        "distance": 27830,
+        "range": 21
+      },
+      "65": {
+        "distance": 13390,
+        "range": 10
+      },
+      "66": {
+        "distance": 6168,
+        "range": 4
+      },
+      "67": {
+        "distance": 24415,
+        "range": 19
+      },
+      "68": {
+        "distance": 23280,
+        "range": 18
+      },
+      "69": {
+        "distance": 14706,
+        "range": 11
+      },
+      "71": {
+        "distance": 17666,
+        "range": 13
+      },
+      "72": {
+        "distance": 17185,
+        "range": 13
+      }
+    },
+    "breakpoints": {
+      "surveillance": {
+        "mid": null,
+        "high": null
+      },
+      "retrieval": {
+        "norm": null,
+        "optim": null
+      },
+      "favor": null
+    }
+  },
+  "71": {
+    "id": 71,
+    "rank": 89,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "Sea of Jade 6",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Sea of Jade 6",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 5,
+    "expReward": 1167711,
+    "surveyRange": 36,
+    "surveyDistance": 81200,
+    "coordX": 852,
+    "coordY": 617,
+    "coordZ": 1000,
+    "toDestination": {
+      "52": {
+        "distance": 50937,
+        "range": 40
+      },
+      "53": {
+        "distance": 44947,
+        "range": 35
+      },
+      "54": {
+        "distance": 24482,
+        "range": 19
+      },
+      "55": {
+        "distance": 36152,
+        "range": 28
+      },
+      "56": {
+        "distance": 34302,
+        "range": 26
+      },
+      "57": {
+        "distance": 28612,
+        "range": 22
+      },
+      "58": {
+        "distance": 32897,
+        "range": 25
+      },
+      "59": {
+        "distance": 25583,
+        "range": 20
+      },
+      "60": {
+        "distance": 33073,
+        "range": 25
+      },
+      "61": {
+        "distance": 36350,
+        "range": 28
+      },
+      "62": {
+        "distance": 29920,
+        "range": 23
+      },
+      "63": {
+        "distance": 28884,
+        "range": 22
+      },
+      "64": {
+        "distance": 38130,
+        "range": 29
+      },
+      "65": {
+        "distance": 29055,
+        "range": 22
+      },
+      "66": {
+        "distance": 23200,
+        "range": 18
+      },
+      "67": {
+        "distance": 23712,
+        "range": 18
+      },
+      "68": {
+        "distance": 40757,
+        "range": 32
+      },
+      "69": {
+        "distance": 21201,
+        "range": 16
+      },
+      "70": {
+        "distance": 17666,
+        "range": 13
+      },
+      "72": {
+        "distance": 10869,
+        "range": 8
+      }
+    },
+    "breakpoints": {
+      "surveillance": {
+        "mid": null,
+        "high": null
+      },
+      "retrieval": {
+        "norm": null,
+        "optim": null
+      },
+      "favor": null
+    }
+  },
+  "72": {
+    "id": 72,
+    "rank": 90,
+    "map": {
+      "id": 3,
+      "image": 63193,
+      "name_fr": "Mer de Jade",
+      "name_en": "Sea of Jade",
+      "name_ja": "\u7fe0\u6d6a\u6d77",
+      "name_de": "Jademeer"
+    },
+    "name_fr": "",
+    "name_en": "The Devil's Crypt",
+    "name_ja": "",
+    "name_de": "",
+    "shortname_fr": "",
+    "shortname_en": "Devil's Crypt",
+    "shortname_ja": "",
+    "shortname_de": "",
+    "lettername_fr": "",
+    "lettername_en": "",
+    "lettername_ja": "",
+    "lettername_de": "",
+    "isExplorable": true,
+    "ceruleumTankReq": 6,
+    "stars": 5,
+    "expReward": 1196904,
+    "surveyRange": 37,
+    "surveyDistance": 82600,
+    "coordX": 832,
+    "coordY": 888,
+    "coordZ": 1000,
+    "toDestination": {
+      "52": {
+        "distance": 51815,
+        "range": 40
+      },
+      "53": {
+        "distance": 47297,
+        "range": 37
+      },
+      "54": {
+        "distance": 24580,
+        "range": 19
+      },
+      "55": {
+        "distance": 40887,
+        "range": 32
+      },
+      "56": {
+        "distance": 40071,
+        "range": 31
+      },
+      "57": {
+        "distance": 37020,
+        "range": 29
+      },
+      "58": {
+        "distance": 40120,
+        "range": 31
+      },
+      "59": {
+        "distance": 32831,
+        "range": 25
+      },
+      "60": {
+        "distance": 40864,
+        "range": 32
+      },
+      "61": {
+        "distance": 42575,
+        "range": 33
+      },
+      "62": {
+        "distance": 34707,
+        "range": 27
+      },
+      "63": {
+        "distance": 37476,
+        "range": 29
+      },
+      "64": {
+        "distance": 42953,
+        "range": 33
+      },
+      "65": {
+        "distance": 30539,
+        "range": 23
+      },
+      "66": {
+        "distance": 21884,
+        "range": 17
+      },
+      "67": {
+        "distance": 32526,
+        "range": 25
+      },
+      "68": {
+        "distance": 38659,
+        "range": 30
+      },
+      "69": {
+        "distance": 26817,
+        "range": 21
+      },
+      "70": {
+        "distance": 17185,
+        "range": 13
+      },
+      "71": {
+        "distance": 10869,
+        "range": 8
+      }
+    },
+    "breakpoints": {
+      "surveillance": {
+        "mid": null,
+        "high": null
+      },
+      "retrieval": {
+        "norm": null,
+        "optim": null
+      },
+      "favor": null
     }
   }
 }
