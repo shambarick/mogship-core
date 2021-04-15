@@ -6,19 +6,19 @@ from .exploration import ExplorationDistance, ExplorationUnlock
 
 
 class SurveillanceBreakpoint(BaseModel):
-    mid: int
-    high: int
+    mid: Optional[int]
+    high: Optional[int]
 
 
 class RetrievalBreakpoint(BaseModel):
-    norm: int
-    optim: int
+    norm: Optional[int]
+    optim: Optional[int]
 
 
 class SubmarineSectorBreakpoints(BaseModel):
     surveillance: SurveillanceBreakpoint
     retrieval: RetrievalBreakpoint
-    favor: int
+    favor: Optional[int]
 
 
 class SubmarineMap(BaseModel):
