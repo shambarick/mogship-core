@@ -38,7 +38,7 @@ class ShipService(metaclass=ABCMeta):
 
     @lru_cache
     def get_sectors_by_map(self, map_id: int):
-        return list(filter(lambda x: x["map"]["id"] == map_id, self.get_sectors()))
+        return list(filter(lambda x: x["mapId"] == map_id, self.get_sectors()))
 
 
     @lru_cache

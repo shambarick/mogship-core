@@ -9,5 +9,6 @@ class ExplorationDistance(BaseModel):
 
 
 class ExplorationUnlock(BaseModel):
-    sectors: List[int] = Field(example=[3, 4, 5])
+    sectors: Optional[List[int]] = Field(example=[3, 4, 5])
     slot: Optional[int] = Field(example=2)
+    map: Optional[int] = Field(example=2)

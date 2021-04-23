@@ -33,7 +33,7 @@ class SubmarineMap(BaseModel):
 class SubmarineSector(BaseModel):
     id: int
     rank: int
-    map: SubmarineMap
+    mapId: int
     name_en: str
     name_fr: str
     name_ja: str
